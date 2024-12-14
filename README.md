@@ -39,6 +39,7 @@ kgpwc
 This will output a list of Kubernetes pods, sorted and grouped by node, with each node visually distinguished by a unique color.
 
 ### Example Output
+![image](https://github.com/user-attachments/assets/2cb0dac9-8261-47c6-b16a-89f61ddb4f35)
 
 
 ## Troubleshooting
