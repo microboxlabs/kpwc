@@ -11,7 +11,7 @@ This script enhances Kubernetes `kubectl` functionality by sorting and color-cod
 
 1. Download the script and save it to a directory included in your `$PATH` (e.g., `~/bin`):
    ```bash
-   curl -o ~/bin/kgpwc https://gist.githubusercontent.com/<your-gist-id>/raw/kgpwc.sh
+   curl -o ~/bin/kgpwc https://raw.githubusercontent.com/microboxlabs/kpwc/refs/heads/trunk/kpwc.sh
    ```
 
 2. Make the script executable:
